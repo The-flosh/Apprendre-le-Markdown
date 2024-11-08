@@ -1,15 +1,19 @@
-# Alexandre Grimal  
+# Alexandre Grimal
+![quel Homme](https://github.com/The-flosh/Apprendre-le-Markdown/blob/main/oilad.png)
 * Mail: alexandregrimal0@gmail.com
 * Tel: 0773304540 
 * Loc: 6 rue Joshua Slocum 44210 Pornic
 ---
-
+#### **Informations personnelles**  
+##### **date de naissance:** 17 décembre 1997  
+##### **lieux de naissance:** Paris 14 ieme  
+##### **Sexe:** Homme  
 ---
-### Profil
+### **Profil**
 >Ayant de l'expérience dans plusieurs domaines d'activité, je suis une personne qui s'adapte rapidement.  
 >Aime apprendre, à soif de connaissance et qui soucieux de bien faire son travail.  
 ---
-### Formation
+### **Formation**
 * #####  **Programation** --- _juil. 2019/Aout 2019_
     [42][lien_42] , *Paris 16 ieme*  
    * _piscine 42 - langage de programmation “Csharp/C++”_
@@ -20,7 +24,7 @@
     [MFR Saint Etienne De Montluc][mfr], *saint Etienne de Monluc*
   * _CAP electricien_  
 ---
-### Expérience professionnelle
+### **Expérience professionnelle**
 * ##### serveur polyvalent --- 2023/2024
     [golden tulip][gtp], *Pornic*
   * _serveur en salle_
@@ -53,6 +57,7 @@
 |gestion d'apprentis| 8/10 |
 | gestion du stress | 10/10 |
 | organisation | 8/10 |
+
 
 [lien_42]: https://42.fr
 [mfr]: https://mfr-st-etiennedemontluc.fr
