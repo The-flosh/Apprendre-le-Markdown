@@ -57,7 +57,9 @@
 |gestion d'apprentis| 8/10 |
 | gestion du stress | 10/10 |
 | organisation | 8/10 |
-
+---
+* ### Hobbies
+    * _informatique_
 
 [lien_42]: https://42.fr
 [mfr]: https://mfr-st-etiennedemontluc.fr
