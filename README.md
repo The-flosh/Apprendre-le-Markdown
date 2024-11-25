@@ -14,6 +14,9 @@
 >Aime apprendre, à soif de connaissance et qui soucieux de bien faire son travail.  
 ---
 ### **Formation**
+* #####  **Formation Technicien Supérieur Systèmes et Réseaux (5 mois)** --- _novembre 2024/Mars 2025_
+    [Wild Code School][lien_wild] , *Nantes*  
+   * *Formation TSSR boot camp de 5 mois (__fait en distanciel__)*  
 * #####  **Programation** --- _juil. 2019/Aout 2019_
     [42][lien_42] , *Paris 16 ieme*  
    * _piscine 42 - langage de programmation “Csharp/C++”_
@@ -65,3 +68,5 @@
 [mfr]: https://mfr-st-etiennedemontluc.fr
 [gtp]: https://pornic.goldentulip.com/fr-fr/
 [m]: https://www.marius-pornic.fr/
+[lien_wild]: https://www.wildcodeschool.com/fr-fr/campus/nantes
+
