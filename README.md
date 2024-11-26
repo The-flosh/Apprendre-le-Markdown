@@ -17,7 +17,7 @@
 ### **Formation**
 * #####  **Formation Technicien Supérieur Systèmes et Réseaux (5 mois)** --- _novembre 2024/Mars 2025_
     [Wild Code School][lien_wild] , *Nantes*  
-   * *Formation TSSR boot camp de 5 mois (__fait en distanciel__)*  
+   * *Formation TSSR boot camp de 5 mois / Équivalent bac +2 (__fait en distanciel__)*  
 * #####  **Programation** --- _juil. 2019/Aout 2019_
     [42][lien_42] , *Paris 16 ieme*  
    * _piscine 42 - langage de programmation “Csharp/C++”_
