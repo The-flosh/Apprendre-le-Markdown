@@ -11,8 +11,8 @@
 ---
 ### **Profil**
 >Ayant de l'expérience dans plusieurs domaines d'activité, je suis une personne qui s'adapte rapidement.  
->Aime apprendre, à soif de connaissance et qui soucieux de bien faire son travail. 
->Tout ce qui a été fait par quelqu'un peut être refait par soi-même.   
+>Aime apprendre, à soif de connaissance et qui soucieux de bien faire son travail.  
+>Tout ce qui a été fait par quelqu'un peut être refait par soi-même.  
 ---
 ### **Formation**
 * #####  **Formation Technicien Supérieur Systèmes et Réseaux (5 mois)** --- _novembre 2024/Mars 2025_
