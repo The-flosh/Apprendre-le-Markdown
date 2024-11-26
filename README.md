@@ -11,7 +11,7 @@
 ---
 ### **Profil**
 >Ayant de l'expérience dans plusieurs domaines d'activité, je suis une personne qui s'adapte rapidement.  
->Aime apprendre, à soif de connaissance et qui soucieux de bien faire son travail.  
+>Aime apprendre, à soif de connaissance et qui est soucieux de bien faire son travail.  
 >Tout ce qui a été fait par quelqu'un peut être refait par soi-même.  
 ---
 ### **Formation**
